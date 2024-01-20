@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+  width: 500px;
+  margin: 0 auto;
+}
+
+.item {
+  width: 80px;
+  height: 80px;
+  background-color: green;
+    
+}
+#b7{
+	background-color:red;
+	
+}
+#b8{
+	background-color:blue;
+	
+}
